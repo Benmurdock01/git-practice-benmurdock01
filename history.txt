@@ -1,0 +1,14 @@
+  113  git checkout features
+  114  git log --oneline --graph
+  115  git checkout main
+  117  git merge features
+  118  git checkout features
+  119  git checkout main
+  120  git merge features
+  121  git branch -d features
+  122  git branch -D features
+  123  git branch
+  124  git remote add origin git@github.com:Benmurdock01/git-practice-benmurdock01.git
+  126  git push -u origin main
+  127  git lot --oneline > gitlog.txt
+  128  git log --oneline > gitlog.txt

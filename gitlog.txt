@@ -1,0 +1,10 @@
+16a4d17 updated content to new_file
+46c1b46 Merge branch 'features' into main
+4ca84c7 adding text to file 1
+0c3cebf added content to new_features.txt
+5dfed66 add empty file
+4b5bda3 created readme.
+a8a381c adding .gitignore file
+6e9f3e5 changes to file_2
+ac53684 changes to file_1
+249d350 create new files
